@@ -4,7 +4,7 @@
 
 **Outcomes:** People know what's happening and when and where to find information. Discussions and decisions can happen in the open. Use this as a lightweight adaptable model for planning future events.
 
-**Process:** README contains up to date information. GitHub Discussions can be used for things like travel and meetup plans, and which sessions folks plan to attend. Issues for ...issues.
+**Process:** README contains up to date information. [GitHub Discussions](https://github.com/NASA-Openscapes/2023-planning-agu/discussions) can be used for things like travel and meetup plans, and which sessions folks plan to attend. Issues for ...issues.
 
 ## Travel suggestions
 

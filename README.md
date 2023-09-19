@@ -16,7 +16,13 @@ Workshops are Sunday, arrive for a huddle Saturday afternoon
 
 ## Workshop planning
 
-Workshop planning and dry runs will take place during Mentors Cohort Calls. Dates are listed on the NASA-Openscapes [Mentors Calendar list](https://nasa-openscapes.github.io/mentors.html#calendar).
+Workshop planning and dry runs will take place during Mentors Cohort Calls.
+
+- Oct 4	AGU workshop planning overview (GitHub repo): goals, topics, people. Hyperwall. AGU mtg Dec 11-15.		
+- Oct 18	AGU (30 mins)		
+- Nov 1	AGU (30 mins)	
+- Nov 15	AGU dry runs with helpers	
+- Nov 29	AGU dry runs with helpers
 
 ## Booths, Hyperwall
 

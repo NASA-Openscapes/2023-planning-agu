@@ -18,7 +18,7 @@ Workshops are Sunday, arrive for a huddle Saturday afternoon
 
 Workshop planning and dry runs will take place during Mentors Cohort Calls.
 
-- Oct 4	AGU workshop planning overview (GitHub repo): goals, topics, people. Hyperwall. AGU mtg Dec 11-15.		
+- Oct 4	AGU workshop planning overview: goals, topics, people, Hyperwall.		
 - Oct 18	AGU (30 mins)		
 - Nov 1	AGU (30 mins)	
 - Nov 15	AGU dry runs with helpers	

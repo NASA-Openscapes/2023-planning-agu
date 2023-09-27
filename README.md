@@ -6,6 +6,10 @@
 
 **Process:** README contains up to date information. [GitHub Discussions](https://github.com/NASA-Openscapes/2023-planning-agu/discussions) can be used for things like travel and meetup plans, and which sessions folks plan to attend. Issues for ...issues.
 
+## Planning doc 
+
+[AGU2023_draftworkshop](https://docs.google.com/document/d/1dOilx2mVi-HK4gout0SpYczyXpsZymL0h4bKaIQ-2ew/)
+
 ## Travel suggestions
 
 Workshops are Sunday, arrive for a huddle Saturday afternoon

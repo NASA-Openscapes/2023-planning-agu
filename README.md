@@ -16,6 +16,25 @@ Workshops are Sunday, arrive for a huddle Saturday afternoon
 
 ## Sunday workshops
 
+### Enabling Analysis in the Cloud Using NASA Earth Science Data
+half-day co-led by NASA Openscapes Mentors: 
+
+- Danny - confirmed available
+- Julie
+- Erin
+- Cassie
+- Luis
+- Aaron 
+- Michele
+- Catalina - TBD
+
+
+### Other workshops co-led by NASA Openscapes Folks 
+Listed here but this planning focuses on the half-day one above
+
+- NSIDC - full-day
+- LP (Bri)
+- NASA Earthdata tools (ED Search, Worldview))
 
 
 ## Workshop planning

@@ -17,9 +17,13 @@ Workshops are Sunday, arrive for a huddle Saturday afternoon
 ## Sunday workshops
 
 **Enabling Analysis in the Cloud Using NASA Earth Science Data**
-Half-day co-led by NASA Openscapes Mentors
+
+Half-day co-led by NASA Openscapes Mentors.
+
+Hybrid; 30 people max.
 
 **Other workshops co-led by NASA Openscapes Folks** 
+
 Listed for awareness; following planning focuses on the half-day one above.
 
 - NSIDC - full-day
@@ -28,15 +32,19 @@ Listed for awareness; following planning focuses on the half-day one above.
 
 ### Workshop planning - Enabling Analysis in the Cloud
 
-**Confirmed people:** 
+**Confirmed in-person people:** 
 - Danny 
-- Julie
-- Erin
 - Cassie
 - Luis
 - Aaron 
 - Michele
 - Catalina - TBD
+- Julie (helper)
+- Erin (helper)
+
+**Confirmed remote helpers:**
+
+- 
 
 **Workshop planning and dry runs will take place during Mentors Cohort Calls.**
 

@@ -16,10 +16,20 @@ Workshops are Sunday, arrive for a huddle Saturday afternoon
 
 ## Sunday workshops
 
-### Enabling Analysis in the Cloud Using NASA Earth Science Data
-half-day co-led by NASA Openscapes Mentors: 
+**Enabling Analysis in the Cloud Using NASA Earth Science Data**
+Half-day co-led by NASA Openscapes Mentors
 
-- Danny - confirmed available
+**Other workshops co-led by NASA Openscapes Folks** 
+Listed for awareness; following planning focuses on the half-day one above.
+
+- NSIDC - full-day
+- LP - full-day (Bri)
+- NASA Earthdata tools (ED Search, Worldview))
+
+### Workshop planning - Enabling Analysis in the Cloud
+
+**Confirmed people:** 
+- Danny 
 - Julie
 - Erin
 - Cassie
@@ -28,18 +38,7 @@ half-day co-led by NASA Openscapes Mentors:
 - Michele
 - Catalina - TBD
 
-
-### Other workshops co-led by NASA Openscapes Folks 
-Listed here but this planning focuses on the half-day one above
-
-- NSIDC - full-day
-- LP (Bri)
-- NASA Earthdata tools (ED Search, Worldview))
-
-
-## Workshop planning
-
-Workshop planning and dry runs will take place during Mentors Cohort Calls.
+**Workshop planning and dry runs will take place during Mentors Cohort Calls.**
 
 - Oct 4	AGU workshop planning overview: goals, topics, people, Hyperwall.		
 - Oct 18	AGU (30 mins)		
@@ -52,10 +51,15 @@ Workshop planning and dry runs will take place during Mentors Cohort Calls.
 Amy Steiker: Hyperwall POC Mathworks
 
 ## Social meetups
-#### Sunday or Monday Mentor Happy Hour
+### Sunday or Monday Mentor Happy Hour
 
 Family/colleagues welcome - like we did post-Retreat
 
+### Wednesday 
+
+IGNITE
+
+## Hackday - when and what focus?
 
 ## Mon-Fri talks
 

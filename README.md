@@ -16,21 +16,11 @@ Workshops are Sunday, arrive for a huddle Saturday afternoon
 
 ## Sunday workshops
 
-**Enabling Analysis in the Cloud Using NASA Earth Science Data**
+### Enabling Analysis in the Cloud Using NASA Earth Science Data
 
 Half-day co-led by NASA Openscapes Mentors.
 
 Hybrid; 30 people max.
-
-**Other workshops co-led by NASA Openscapes Folks** 
-
-Listed for awareness; following planning focuses on the half-day one above.
-
-- NSIDC - full-day
-- LP - full-day (Bri)
-- NASA Earthdata tools (ED Search, Worldview))
-
-### Workshop planning - Enabling Analysis in the Cloud
 
 **Confirmed in-person people:** 
 - Danny 
@@ -53,6 +43,13 @@ Listed for awareness; following planning focuses on the half-day one above.
 - Nov 1	AGU (30 mins)	
 - Nov 15	AGU dry runs with helpers	
 - Nov 29	AGU dry runs with helpers
+
+### Other workshops co-led by NASA Openscapes Folks
+Listed for awareness; planning above focuses on the half-day one.
+
+- NSIDC - full-day
+- LP - full-day (Bri)
+- NASA Earthdata tools (ED Search, Worldview))
 
 ## Booths, Hyperwall
 

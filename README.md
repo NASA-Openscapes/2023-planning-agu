@@ -43,7 +43,8 @@ Planning doc: [AGU2023_draftworkshop](https://docs.google.com/document/d/1dOilx2
 Listed for awareness; planning above focuses on the half-day one.
 
 - NSIDC - full-day
-- LP - full-day (Bri)
+- LP Intro to Remote Sensing - full-day (Bri)
+- LP EMIT-ECOSTRESS science (Erik)
 - NASA Earthdata tools (ED Search, Worldview))
 
 ## Booths, Hyperwall

@@ -16,6 +16,7 @@ Workshops are Sunday, arrive for a huddle Saturday afternoon
 
 Half-day co-led by NASA Openscapes Mentors. Hybrid; 30 people max.
 Planning doc: [AGU2023_draftworkshop](https://docs.google.com/document/d/1dOilx2mVi-HK4gout0SpYczyXpsZymL0h4bKaIQ-2ew/)
+Workshop repo: https://github.com/NASA-Openscapes/2023-Cloud-Workshop-AGU
 
 **Confirmed in-person people:** 
 - Danny 

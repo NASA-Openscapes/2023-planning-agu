@@ -52,6 +52,46 @@ Listed for awareness; planning above focuses on the half-day one.
 
 Amy Steiker: Hyperwall POC Mathworks
 
+## Talks by NASA Openscapes folks and collaborators
+
+<details>
+<summary>Erin, Julie (and others?): NASA Openscapes approaches and stories of kinder, open science in the Cloud</summary>
+  
+Erin, Julie (and others?)  
+Abstract ID: 1368324  
+Final Paper Number and Abstract Title: SH51A-04: NASA Openscapes approaches and stories of kinder, open science in the Cloud  
+Presentation Type: Oral  
+Session Number and Title: SH51A: Adopting Open Science in the Heliophysics, Earth, and Space Sciences II Oral  
+Session Date and Time: Friday, 15 December 2023; 08:30 – 10:00 PST  
+Presentation Length: 09:00 – 09:10 PST  
+Location: Moscone Center, 211 - South  
+</details>
+
+<details>
+<summary>Danny & Luis: Multidimensional Data Aggregation in the Cloud with Application to Geostationary Satellite-based Air Quality Monitoring</summary>
+  
+Danny & Luis:  
+Final Paper Number and Abstract Title: IN42B-01: Multidimensional Data Aggregation in the Cloud with Application to Geostationary Satellite-based Air Quality Monitoring  
+Presentation Type: Oral  
+Session Number and Title: IN42B: Maximizing the Utility and Efficiency of Scientific Research Through Analysis-Ready Data and Data Harmonization I Oral  
+Session Date and Time: Thursday, 14 December 2023; 10:20 – 11:50 PST  
+Presentation Length: 10:22 – 10:32 PST  
+Location: Moscone Center, 2014 - West  
+</details>
+
+
+<details>
+<summary>Alexis: The Cloud: Obstacles and Barriers Encountered by Users</summary>
+
+Alexis, eLightning doing a re-run from my ESIP poster, with updates based on the post-it note feedback  
+Abstract ID: 1360223  
+Final Paper Number & Abstract Title: IN24B-02: The Cloud: Obstacles and Barriers Encountered by Users  
+Presentation Type: eLightning  
+Session Number and Title: IN24B: Accelerating Science: The Convergence of Inclusive Computational Resources, Cloud-Optimized Data, Open-Source Tools, and Open Collaborative Communities III eLightning  
+Session Date and Time: Tuesday, 12 December 2023; 16:00 – 17:30 PST  
+Location: Moscone Center, South, Hall D; eLightning Theater IV, Hall D - South  
+</details>
+
 ## Social meetups
 ### Sunday or Monday Mentor Happy Hour
 

@@ -43,6 +43,16 @@ Workshop repo: https://github.com/NASA-Openscapes/2023-Cloud-Workshop-AGU
 ### Other workshops co-led by NASA Openscapes Folks
 Listed for awareness; planning above focuses on the half-day one.
 
+<details>
+<summary>LP Intro to Remote Sensing - full-day (Bri)</summary>
+  
+Workshop Title: Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427)  
+Date and Time: Sunday, 10 December 2023: 13:00 - 16:30 **  
+Location: Moscone Center, 3022 - West  
+Final Session #: SCIWS23  
+Session Type: Hybrid  
+</details>
+
 - NSIDC - full-day
 - LP Intro to Remote Sensing - full-day (Bri)
 - LP EMIT-ECOSTRESS science (Erik)
@@ -90,6 +100,16 @@ Presentation Type: eLightning
 Session Number and Title: IN24B: Accelerating Science: The Convergence of Inclusive Computational Resources, Cloud-Optimized Data, Open-Source Tools, and Open Collaborative Communities III eLightning  
 Session Date and Time: Tuesday, 12 December 2023; 16:00 – 17:30 PST  
 Location: Moscone Center, South, Hall D; eLightning Theater IV, Hall D - South  
+</details>
+
+<details>
+<summary>Lisa Kempler & MathWorks: Accessing NASA Earthdata in the Cloud: Experiences Using MATLAB on NASA Openscapes’ 2i2c JupyterHub</summary>
+
+Abstract ID: 1281461  
+Final Paper Number and Abstract Title: IN21A-02: Accessing NASA Earthdata in the Cloud: Experiences Using MATLAB on NASA Openscapes’ 2i2c JupyterHub  
+Presentation Type: Oral  
+Session Date and Time: Tuesday, 12 December 2023; 08:30 - 10:00 PST  
+Session Number and Title: IN21A: Accelerating Science: The Convergence of Inclusive Computational Resources, Cloud-Optimized Data, Open-Source Tools, and Open Collaborative Communities I Oral  
 </details>
 
 ## Social meetups

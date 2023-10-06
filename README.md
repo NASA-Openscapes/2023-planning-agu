@@ -10,6 +10,8 @@
 
 Workshops are Sunday, arrive for a huddle Saturday afternoon
 
+Kytt MacManus arrives late Monday.
+
 ## Sunday workshops
 
 ### Enabling Analysis in the Cloud Using NASA Earth Science Data

@@ -64,36 +64,20 @@ Session Type: Hybrid
 
 Amy Steiker: Hyperwall POC Mathworks
 
-## Talks by NASA Openscapes folks and collaborators
+## Talks by NASA Openscapes folks and collaborators: Mon-Fri
 
 <details>
-<summary>Erin, Julie (and others?): NASA Openscapes approaches and stories of kinder, open science in the Cloud</summary>
-  
-Erin, Julie (and others?)  
-Abstract ID: 1368324  
-Final Paper Number and Abstract Title: SH51A-04: NASA Openscapes approaches and stories of kinder, open science in the Cloud  
+<summary>Lisa Kempler & MathWorks: Accessing NASA Earthdata in the Cloud: Experiences Using MATLAB on NASA Openscapes’ 2i2c JupyterHub. Tuesday, 12 Dec; 08:30-10:00 PST</summary>
+
+Abstract ID: 1281461  
+Final Paper Number and Abstract Title: IN21A-02: Accessing NASA Earthdata in the Cloud: Experiences Using MATLAB on NASA Openscapes’ 2i2c JupyterHub  
 Presentation Type: Oral  
-Session Number and Title: SH51A: Adopting Open Science in the Heliophysics, Earth, and Space Sciences II Oral  
-Session Date and Time: Friday, 15 December 2023; 08:30 – 10:00 PST  
-Presentation Length: 09:00 – 09:10 PST  
-Location: Moscone Center, 211 - South  
+Session Date and Time: Tuesday, 12 December 2023; 08:30 - 10:00 PST  
+Session Number and Title: IN21A: Accelerating Science: The Convergence of Inclusive Computational Resources, Cloud-Optimized Data, Open-Source Tools, and Open Collaborative Communities I Oral  
 </details>
 
 <details>
-<summary>Danny & Luis: Multidimensional Data Aggregation in the Cloud with Application to Geostationary Satellite-based Air Quality Monitoring</summary>
-  
-Danny & Luis:  
-Final Paper Number and Abstract Title: IN42B-01: Multidimensional Data Aggregation in the Cloud with Application to Geostationary Satellite-based Air Quality Monitoring  
-Presentation Type: Oral  
-Session Number and Title: IN42B: Maximizing the Utility and Efficiency of Scientific Research Through Analysis-Ready Data and Data Harmonization I Oral  
-Session Date and Time: Thursday, 14 December 2023; 10:20 – 11:50 PST  
-Presentation Length: 10:22 – 10:32 PST  
-Location: Moscone Center, 2014 - West  
-</details>
-
-
-<details>
-<summary>Alexis: The Cloud: Obstacles and Barriers Encountered by Users</summary>
+<summary>Alexis: The Cloud: Obstacles and Barriers Encountered by Users. Tuesday, 12 Dec; 16:00–17:30 PST</summary>
 
 Alexis, eLightning doing a re-run from my ESIP poster, with updates based on the post-it note feedback  
 Abstract ID: 1360223  
@@ -105,14 +89,30 @@ Location: Moscone Center, South, Hall D; eLightning Theater IV, Hall D - South
 </details>
 
 <details>
-<summary>Lisa Kempler & MathWorks: Accessing NASA Earthdata in the Cloud: Experiences Using MATLAB on NASA Openscapes’ 2i2c JupyterHub</summary>
-
-Abstract ID: 1281461  
-Final Paper Number and Abstract Title: IN21A-02: Accessing NASA Earthdata in the Cloud: Experiences Using MATLAB on NASA Openscapes’ 2i2c JupyterHub  
+<summary>Danny & Luis: Multidimensional Data Aggregation in the Cloud with Application to Geostationary Satellite-based Air Quality Monitoring. Thursday, 14 Dec; 10:20–11:50 PST</summary>
+  
+Danny & Luis:  
+Final Paper Number and Abstract Title: IN42B-01: Multidimensional Data Aggregation in the Cloud with Application to Geostationary Satellite-based Air Quality Monitoring  
 Presentation Type: Oral  
-Session Date and Time: Tuesday, 12 December 2023; 08:30 - 10:00 PST  
-Session Number and Title: IN21A: Accelerating Science: The Convergence of Inclusive Computational Resources, Cloud-Optimized Data, Open-Source Tools, and Open Collaborative Communities I Oral  
+Session Number and Title: IN42B: Maximizing the Utility and Efficiency of Scientific Research Through Analysis-Ready Data and Data Harmonization I Oral  
+Session Date and Time: Thursday, 14 December 2023; 10:20 – 11:50 PST  
+Presentation Length: 10:22 – 10:32 PST  
+Location: Moscone Center, 2014 - West  
 </details>
+
+<details>
+<summary>Erin, Julie (and others?): NASA Openscapes approaches and stories of kinder, open science in the Cloud. Friday, 15 Dec; 08:30–10:00 PST</summary>
+  
+Erin, Julie (and others?)  
+Abstract ID: 1368324  
+Final Paper Number and Abstract Title: SH51A-04: NASA Openscapes approaches and stories of kinder, open science in the Cloud  
+Presentation Type: Oral  
+Session Number and Title: SH51A: Adopting Open Science in the Heliophysics, Earth, and Space Sciences II Oral  
+Session Date and Time: Friday, 15 December 2023; 08:30 – 10:00 PST  
+Presentation Length: 09:00 – 09:10 PST  
+Location: Moscone Center, 211 - South  
+</details>
+
 
 ## Social meetups
 ### Sunday or Monday Mentor Happy Hour
@@ -125,6 +125,3 @@ IGNITE
 
 ## Hackday - when and what focus?
 
-## Mon-Fri talks
-
-TBD

@@ -14,7 +14,38 @@ Kytt MacManus arrives late Monday.
 
 ## Sunday workshops
 
-### Enabling Analysis in the Cloud Using NASA Earth Science Data
+
+<details>
+<summary>Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427)</summary>
+
+Workshop title: Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427)
+Date and Time: Sunday, 10 December 2023: 13:00 - 16:30 **
+
+Location: Moscone Center, 3022 - West
+
+Final Session #: SCIWS23
+
+Session Type: Hybrid
+
+</details>
+
+<details>
+<summary>LP Intro to Remote Sensing - full-day (Bri)</summary>
+  
+Workshop Title: Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427)  
+Date and Time: Sunday, 10 December 2023: 13:00 - 16:30 **  
+Location: Moscone Center, 3022 - West  
+Final Session #: SCIWS23  
+Session Type: Hybrid  
+</details>
+
+- NSIDC - full-day
+- LP Intro to Remote Sensing - full-day (Bri)
+- LP EMIT-ECOSTRESS science (Erik)
+- NASA Earthdata tools (ED Search, Worldview))
+
+
+### Enabling Analysis in the Cloud Workshop planning
 
 Half-day co-led by NASA Openscapes Mentors. Hybrid; 30 people max.  
 Planning doc: [AGU2023_draftworkshop](https://docs.google.com/document/d/1dOilx2mVi-HK4gout0SpYczyXpsZymL0h4bKaIQ-2ew/)  
@@ -41,24 +72,6 @@ Workshop repo: https://github.com/NASA-Openscapes/2023-Cloud-Workshop-AGU
 - Nov 1	AGU (30 mins)	
 - Nov 15	AGU dry runs with helpers	
 - Nov 29	AGU dry runs with helpers
-
-### Other workshops co-led by NASA Openscapes Folks
-Listed for awareness; planning above focuses on the half-day one.
-
-<details>
-<summary>LP Intro to Remote Sensing - full-day (Bri)</summary>
-  
-Workshop Title: Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427)  
-Date and Time: Sunday, 10 December 2023: 13:00 - 16:30 **  
-Location: Moscone Center, 3022 - West  
-Final Session #: SCIWS23  
-Session Type: Hybrid  
-</details>
-
-- NSIDC - full-day
-- LP Intro to Remote Sensing - full-day (Bri)
-- LP EMIT-ECOSTRESS science (Erik)
-- NASA Earthdata tools (ED Search, Worldview))
 
 ## Booths, Hyperwall
 

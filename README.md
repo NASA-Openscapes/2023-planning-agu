@@ -16,7 +16,7 @@ Kytt MacManus arrives late Monday.
 
 
 <details>
-<summary>Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427)</summary>
+<summary>Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427). Sunday, 10 Dec: 13:00-16:30</summary>
 
 Workshop title: Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427)
 Date and Time: Sunday, 10 December 2023: 13:00 - 16:30 **

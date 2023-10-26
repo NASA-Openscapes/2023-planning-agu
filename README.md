@@ -14,7 +14,7 @@ Kytt MacManus arrives late Monday.
 ## Sunday workshops
 
 <details>
-<summary>Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427). Sunday, 10 Dec: 13:00-16:30</summary>
+<summary>Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427). Sunday, 10 Dec: 13:00-16:30 (NASA Openscapes)</summary>
 
 Workshop title: Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427)
 Date and Time: Sunday, 10 December 2023: 13:00 - 16:30 **
@@ -38,9 +38,9 @@ Session Type:
 </details>
 
 <details>
-<summary>Space Station Synergies: Applying ECOSTRESS and EMIT Data to Real-World Problems for Scientific Insight. Sunday, 10 Dec: 08:00 - 15:00</summary>
+<summary>Space Station Synergies: Applying ECOSTRESS and EMIT Data to Real-World Problems for Scientific Insight. full day</summary>
 
-Workshop title: Space Station Synergies: Applying ECOSTRESS and EMIT Data to Real-World Problems for Scientific Insight (#193427)
+Workshop title: Space Station Synergies: Applying ECOSTRESS and EMIT Data to Real-World Problems for Scientific Insight 
 Date and Time: Sunday, 10 December 2023:  08:00 - 15:00 **
 
 Location: 3004 - West (Level 3, West, Moscone Center)
@@ -52,7 +52,6 @@ Session Type: Hybrid
 </details>
 
 - NSIDC - full-day
-- LP EMIT-ECOSTRESS science (Erik)
 - NASA Earthdata tools (ED Search, Worldview)
 
 

@@ -16,7 +16,7 @@ Kytt MacManus arrives late Monday.
 <details>
 <summary>Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427). Sunday, 10 Dec: 13:00-16:30 (NASA Openscapes)</summary>
 
-Workshop title: Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427)
+Workshop title: Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427)  
 Date and Time: Sunday, 10 December 2023: 13:00 - 16:30 **
 
 Location: Moscone Center, 3022 - West
@@ -31,16 +31,21 @@ Session Type: Hybrid
 <summary>LP Intro to Remote Sensing - full-day (Bri)</summary>
   
 Workshop Title:  
+
 Date and Time: Sunday, 10 December 2023: TIME **  
+
 Location:   
+
 Final Session #:   
+
 Session Type:   
 </details>
 
 <details>
-<summary>Space Station Synergies: Applying ECOSTRESS and EMIT Data to Real-World Problems for Scientific Insight. full day</summary>
+<summary>Space Station Synergies: Applying ECOSTRESS and EMIT Data to Real-World Problems for Scientific Insight. full day (Erik, Aaron)</summary>
 
 Workshop title: Space Station Synergies: Applying ECOSTRESS and EMIT Data to Real-World Problems for Scientific Insight 
+
 Date and Time: Sunday, 10 December 2023:  08:00 - 15:00 **
 
 Location: 3004 - West (Level 3, West, Moscone Center)
@@ -51,8 +56,33 @@ Session Type: Hybrid
 
 </details>
 
-- NSIDC - full-day
-- NASA Earthdata tools (ED Search, Worldview)
+<details>
+<summary>NSIDC - full-day</summary>
+Workshop Title:   
+  
+Date and Time: Sunday, 10 December 2023: TIME **   
+
+Location:    
+
+Final Session #:     
+
+Session Type:      
+</details>
+
+
+<details>
+<summary>NASA Earthdata tools (ED Search, Worldview)</summary>
+Workshop Title:    
+  
+Date and Time: Sunday, 10 December 2023: TIME **    
+
+Location:     
+
+Final Session #:     
+
+Session Type:    
+
+</details>
 
 
 ### Enabling Analysis in the Cloud Workshop planning
@@ -70,8 +100,8 @@ Workshop repo: https://github.com/NASA-Openscapes/2023-Cloud-Workshop-AGU
 - Julie (helper)
 - Erin (helper)
 
-**Confirmed remote helpers:**  
-- 
+**Confirmed remote helpers:**
+
 
 **Contributors**  
 - Catalina - before meeting prep
@@ -96,6 +126,8 @@ Amy Steiker: Hyperwall POC Mathworks
 
 <details>
 <summary>Lisa Kempler & MathWorks: Accessing NASA Earthdata in the Cloud: Experiences Using MATLAB on NASA Openscapes’ 2i2c JupyterHub. Tuesday, 12 Dec; 08:30-10:00 PST</summary>
+
+<https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1281461>
 
 Abstract ID: 1281461  
 Final Paper Number and Abstract Title: IN21A-02: Accessing NASA Earthdata in the Cloud: Experiences Using MATLAB on NASA Openscapes’ 2i2c JupyterHub  
@@ -130,7 +162,9 @@ Location: Moscone Center, 2014 - West
 
 <details>
 <summary>Erin, Julie (and others?): NASA Openscapes approaches and stories of kinder, open science in the Cloud. Friday, 15 Dec; 08:30–10:00 PST</summary>
-  
+
+<https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1368324>
+
 Erin, Julie (and others?)  
 Abstract ID: 1368324  
 Final Paper Number and Abstract Title: SH51A-04: NASA Openscapes approaches and stories of kinder, open science in the Cloud  

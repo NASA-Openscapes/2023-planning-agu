@@ -4,16 +4,14 @@
 
 **Outcomes:** People know what's happening and when and where to find information. Discussions and decisions can happen in the open. Use this as a lightweight adaptable model for planning future events.
 
-**Process:** README contains up to date information. [GitHub Discussions](https://github.com/NASA-Openscapes/2023-planning-agu/discussions) can be used for things like travel and meetup plans, and which sessions folks plan to attend. Issues for ...issues.
+**Process:** README contains up to date information. [GitHub Discussions](https://github.com/NASA-Openscapes/2023-planning-agu/discussions) are used for workshop planning, travel and meetup plans, and which sessions folks plan to attend. Issues for ...issues.
 
 ## Travel suggestions
 
-Workshops are Sunday, arrive for a huddle Saturday afternoon
-
+Workshops are Sunday, arrive for a huddle Saturday afternoon.  
 Kytt MacManus arrives late Monday.
 
 ## Sunday workshops
-
 
 <details>
 <summary>Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427). Sunday, 10 Dec: 13:00-16:30</summary>
@@ -32,17 +30,30 @@ Session Type: Hybrid
 <details>
 <summary>LP Intro to Remote Sensing - full-day (Bri)</summary>
   
-Workshop Title: Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427)  
-Date and Time: Sunday, 10 December 2023: 13:00 - 16:30 **  
-Location: Moscone Center, 3022 - West  
-Final Session #: SCIWS23  
-Session Type: Hybrid  
+Workshop Title:  
+Date and Time: Sunday, 10 December 2023: TIME **  
+Location:   
+Final Session #:   
+Session Type:   
+</details>
+
+<details>
+<summary>Space Station Synergies: Applying ECOSTRESS and EMIT Data to Real-World Problems for Scientific Insight. Sunday, 10 Dec: 08:00 - 15:00</summary>
+
+Workshop title: Space Station Synergies: Applying ECOSTRESS and EMIT Data to Real-World Problems for Scientific Insight (#193427)
+Date and Time: Sunday, 10 December 2023:  08:00 - 15:00 **
+
+Location: 3004 - West (Level 3, West, Moscone Center)
+
+Final Session #: SCIWS11
+
+Session Type: Hybrid
+
 </details>
 
 - NSIDC - full-day
-- LP Intro to Remote Sensing - full-day (Bri)
 - LP EMIT-ECOSTRESS science (Erik)
-- NASA Earthdata tools (ED Search, Worldview))
+- NASA Earthdata tools (ED Search, Worldview)
 
 
 ### Enabling Analysis in the Cloud Workshop planning
@@ -52,18 +63,23 @@ Planning doc: [AGU2023_draftworkshop](https://docs.google.com/document/d/1dOilx2
 Workshop repo: https://github.com/NASA-Openscapes/2023-Cloud-Workshop-AGU
 
 **Confirmed in-person people:** 
-- Danny 
-- Cassie
-- Luis
-- Aaron 
-- Michele
-- Catalina - TBD
+- Michele - instruct/present
+- Aaron - instruct/present
+- Danny - instruct/present
+- Cassie - instruct/present
+- Luis (helper; participating in another workshop)
 - Julie (helper)
 - Erin (helper)
 
-**Confirmed remote helpers:**
-
+**Confirmed remote helpers:**  
 - 
+
+**Contributors**  
+- Catalina - before meeting prep
+- Bri - before meeting prep
+- Rupesh - data testing, before meeting prep
+- Nikki - tester, before meeting prep
+- Celia - before meeting prep
 
 **Workshop planning and dry runs will take place during Mentors Cohort Calls.**
 

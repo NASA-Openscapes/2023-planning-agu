@@ -118,9 +118,9 @@ Workshop repo: https://github.com/NASA-Openscapes/2023-Cloud-Workshop-AGU
 - Nov 15	AGU dry runs with helpers	
 - Nov 29	AGU dry runs with helpers
 
-## Booths, Hyperwall
+## Booths
 
-Amy Steiker: Hyperwall POC Mathworks
+Hyperwall proposal wasn't accepted. We will be demo-ing at the NASA booth, the Open Science Help Desk (Data/software), Coiled.io and Mathworks booths. Details on demo timing will be shared as it is available. 
 
 ## Talks by NASA Openscapes folks and collaborators: Mon-Fri
 

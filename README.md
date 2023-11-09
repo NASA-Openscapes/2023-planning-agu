@@ -14,9 +14,10 @@ Kytt MacManus arrives late Monday.
 ## Sunday workshops
 
 <details>
-<summary>Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427). Sunday, 10 Dec: 13:00-16:30 (NASA Openscapes)</summary>
+<summary>Enabling Analysis in the Cloud Using NASA Earth Science Data. half-day. Sunday, 10 Dec: 13:00-16:30 (NASA Openscapes)</summary>
 
-Workshop title: Enabling Analysis in the Cloud Using NASA Earth Science Data (#193427)  
+<https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/193427>
+
 Date and Time: Sunday, 10 December 2023: 13:00 - 16:30 **
 
 Location: Moscone Center, 3022 - West
@@ -29,14 +30,10 @@ Session Type: Hybrid
 
 <details>
 <summary>LP Intro to Remote Sensing - full-day (Bri)</summary>
-  
-Workshop Title:  
 
 Date and Time: Sunday, 10 December 2023: TIME **  
 
 Location:   
-
-Final Session #:   
 
 Session Type:   
 </details>
@@ -44,29 +41,25 @@ Session Type:
 <details>
 <summary>Space Station Synergies: Applying ECOSTRESS and EMIT Data to Real-World Problems for Scientific Insight. full day (Erik, Aaron)</summary>
 
-Workshop title: Space Station Synergies: Applying ECOSTRESS and EMIT Data to Real-World Problems for Scientific Insight 
+<https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/193331>
 
 Date and Time: Sunday, 10 December 2023:  08:00 - 15:00 **
 
 Location: 3004 - West (Level 3, West, Moscone Center)
-
-Final Session #: SCIWS11
 
 Session Type: Hybrid
 
 </details>
 
 <details>
-<summary>NSIDC - full-day</summary>
-Workshop Title:   
-  
-Date and Time: Sunday, 10 December 2023: TIME **   
+<summary>Cloud Computing and Open-Source Scientific Software for Cryosphere Communities. full-day (Amy) </summary>
 
-Location:    
+<https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/193477>  
 
-Final Session #:     
+Date and Time: Sunday, 10 December 2023: 08:00 - 15:00 **   
 
-Session Type:      
+Location: 3006 - West (Level 3, West, Moscone Center) 
+
 </details>
 
 
@@ -78,9 +71,7 @@ Date and Time: Sunday, 10 December 2023: TIME **
 
 Location:     
 
-Final Session #:     
-
-Session Type:    
+Final Session #:      
 
 </details>
 

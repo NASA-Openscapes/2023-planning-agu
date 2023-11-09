@@ -11,6 +11,40 @@
 Workshops are Sunday, arrive for a huddle Saturday afternoon.  
 Kytt MacManus arrives late Monday.
 
+
+## Workshop planning: Enabling Analysis in the Cloud 
+
+Half-day co-led by NASA Openscapes Mentors. Hybrid; 30 people max.  
+Planning doc: [AGU2023_draftworkshop](https://docs.google.com/document/d/1dOilx2mVi-HK4gout0SpYczyXpsZymL0h4bKaIQ-2ew/)  
+Workshop repo: https://github.com/NASA-Openscapes/2023-Cloud-Workshop-AGU
+
+**Confirmed in-person people:** 
+- Michele - instruct/present
+- Aaron - instruct/present
+- Danny - instruct/present
+- Cassie - instruct/present
+- Luis (helper; participating in another workshop)
+- Julie (helper)
+- Erin (helper)
+
+**Confirmed remote helpers:**
+
+
+**Contributors**  
+- Catalina - before meeting prep
+- Bri - before meeting prep
+- Rupesh - data testing, before meeting prep
+- Nikki - tester, before meeting prep
+- Celia - before meeting prep
+
+**Workshop planning and dry runs will take place during Mentors Cohort Calls and Coworking.**
+
+- Oct 4	AGU workshop planning overview: goals, topics, people, Hyperwall.		
+- Oct 18	AGU (30 mins)		
+- Nov 1	AGU (30 mins)	
+- Nov 15	AGU dry runs with helpers	
+- Nov 29	AGU dry runs with helpers
+
 ## Sunday workshops
 
 <details>
@@ -29,11 +63,13 @@ Session Type: Hybrid
 </details>
 
 <details>
-<summary>LP Intro to Remote Sensing - full-day (Bri)</summary>
+<summary>Getting Started with NASA Earth Science Data: From Beginner to Expert. full-day (Bri, Chris, Binita KC)</summary>
 
-Date and Time: Sunday, 10 December 2023: TIME **  
+<https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/193391>
 
-Location:   
+Date and Time: Sunday, 10 December 2023: 08:00 - 15:00 **  
+
+Location: 3005 - West (Level 3, West, Moscone Center)
 
 Session Type:   
 </details>
@@ -76,45 +112,15 @@ Final Session #:
 </details>
 
 
-### Enabling Analysis in the Cloud Workshop planning
-
-Half-day co-led by NASA Openscapes Mentors. Hybrid; 30 people max.  
-Planning doc: [AGU2023_draftworkshop](https://docs.google.com/document/d/1dOilx2mVi-HK4gout0SpYczyXpsZymL0h4bKaIQ-2ew/)  
-Workshop repo: https://github.com/NASA-Openscapes/2023-Cloud-Workshop-AGU
-
-**Confirmed in-person people:** 
-- Michele - instruct/present
-- Aaron - instruct/present
-- Danny - instruct/present
-- Cassie - instruct/present
-- Luis (helper; participating in another workshop)
-- Julie (helper)
-- Erin (helper)
-
-**Confirmed remote helpers:**
-
-
-**Contributors**  
-- Catalina - before meeting prep
-- Bri - before meeting prep
-- Rupesh - data testing, before meeting prep
-- Nikki - tester, before meeting prep
-- Celia - before meeting prep
-
-**Workshop planning and dry runs will take place during Mentors Cohort Calls.**
-
-- Oct 4	AGU workshop planning overview: goals, topics, people, Hyperwall.		
-- Oct 18	AGU (30 mins)		
-- Nov 1	AGU (30 mins)	
-- Nov 15	AGU dry runs with helpers	
-- Nov 29	AGU dry runs with helpers
 
 ## Booths
 
 Hyperwall proposal wasn't accepted. We will be demo-ing at the NASA booth, the Open Science Help Desk (Data/software), Coiled.io and Mathworks booths. Details on demo timing will be shared as it is available. 
 
-## Talks by NASA Openscapes folks and collaborators: Mon-Fri
+## Talks by NASA Openscapes folks and collaborators
+### Monday
 
+### Tuesday
 <details>
 <summary>Lisa Kempler & MathWorks: Accessing NASA Earthdata in the Cloud: Experiences Using MATLAB on NASA Openscapes’ 2i2c JupyterHub. Tuesday, 12 Dec; 08:30-10:00 PST</summary>
 
@@ -139,6 +145,7 @@ Session Date and Time: Tuesday, 12 December 2023; 16:00 – 17:30 PST
 Location: Moscone Center, South, Hall D; eLightning Theater IV, Hall D - South  
 </details>
 
+### Thursday
 <details>
 <summary>Danny & Luis: Multidimensional Data Aggregation in the Cloud with Application to Geostationary Satellite-based Air Quality Monitoring. Thursday, 14 Dec; 10:20–11:50 PST</summary>
   
@@ -151,6 +158,7 @@ Presentation Length: 10:22 – 10:32 PST
 Location: Moscone Center, 2014 - West  
 </details>
 
+### Friday
 <details>
 <summary>Erin, Julie (and others?): NASA Openscapes approaches and stories of kinder, open science in the Cloud. Friday, 15 Dec; 08:30–10:00 PST</summary>
 
@@ -166,11 +174,45 @@ Presentation Length: 09:00 – 09:10 PST
 Location: Moscone Center, 211 - South  
 </details>
 
+<details>
+<summary>Aaron: Community building across government and responding to researcher needs with the NASA Openscapes framework. Friday, 15 December 2023, 14:30 - 14:40 PST
+</summary> 
+  
+<https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1430101>
+
+Location: 301-302 - South (Level 3, South, Moscone Center)  
+</details>
+
+## Posters by NASA Openscapes folks and collaborators
+### Monday
+<details>
+<summary>Aaron, Bri, Erik, Mahsa, Cole. Embracing Open Science at the LP DAAC: Success stories, challenges, and opportunities. 08:30 - 12:50 PST
+</summary> 
+
+<https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1411855>
+  
+Monday, 11 December 2023  08:30 - 12:50 PST
+Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
+</details> 
+
+### Wednesday
+<details>
+<summary>Bri, Aaron, Mahsa, Erik. Remote Sensing Data Access Made Simple: NASA’s Application for Extracting and Exploring Analysis Ready Samples (AρρEEARS). 08:30 - 12:50 PST
+</summary> 
+  
+<https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1403006>
+
+Wednesday, 13 December 2023, 08:30 - 12:50 PST  
+Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
+
+</details>
 
 ## Social meetups
 ### Sunday or Monday Mentor Happy Hour
 
 Family/colleagues welcome - like we did post-Retreat
+
+Hazem Mahmoud, ASDC will be at AGU. Doing a Sunday workshop
 
 ### Wednesday 
 

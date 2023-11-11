@@ -1,6 +1,6 @@
 # 2023-planning-agu
 
-**Purpose:** This repo is for high-level planning for [AGU](https://www.agu.org/fall-meeting) Dec 11 - 14, 2023.
+**Purpose:** This repo is for high-level planning for [AGU](https://www.agu.org/fall-meeting) Dec 11 - 15, 2023.
 
 **Outcomes:** People know what's happening and when and where to find information. Discussions and decisions can happen in the open. Use this as a lightweight adaptable model for planning future events.
 

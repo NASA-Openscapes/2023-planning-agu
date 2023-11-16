@@ -183,6 +183,8 @@ Location: Moscone Center, 211 - South
 Location: 301-302 - South (Level 3, South, Moscone Center)  
 </details>
 
+
+
 ## Posters by NASA Openscapes folks and collaborators
 ### Monday
 <details>
@@ -205,6 +207,22 @@ Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
 Wednesday, 13 December 2023, 08:30 - 12:50 PST  
 Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
 
+</details>
+
+### Friday
+<details>
+<summary>Erik, Bri, Aaron: Python Resources for working with EMIT Imaging Spectroscopy Data. Friday, 15 Dec; 10:30–14:00 PST</summary>
+  
+<https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1402701>
+
+Erik, Bri, Aaron  
+Abstract ID: 1368324  
+Final Paper Number and Abstract Title:  GC51G-0700: Python Resources for working with EMIT Imaging Spectroscopy Data
+Presentation Type: Poster  
+Session Number and Title:   
+Session Date and Time: Friday, 15 December 2023; 10:30 – 14:50 PST  
+Presentation Length: 
+Location: Poster Hall A-C, Moscone Center, South  
 </details>
 
 ## Social meetups

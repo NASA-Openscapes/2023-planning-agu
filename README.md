@@ -1,10 +1,13 @@
 # 2023-planning-agu
 
+**AGU Searchable [Schedule](https://agu.confex.com/agu/fm23/meetingapp.cgi/Home/0)**
+
 **Purpose:** This repo is for high-level planning for [AGU](https://www.agu.org/fall-meeting) Dec 11 - 15, 2023.
 
 **Outcomes:** People know what's happening and when and where to find information. Discussions and decisions can happen in the open. Use this as a lightweight adaptable model for planning future events.
 
 **Process:** README contains up to date information. [GitHub Discussions](https://github.com/NASA-Openscapes/2023-planning-agu/discussions) are used for workshop planning, travel and meetup plans, and which sessions folks plan to attend. Issues for ...issues.
+
 
 ## Travel suggestions
 
@@ -131,6 +134,16 @@ Final Paper Number and Abstract Title: IN21A-02: Accessing NASA Earthdata in the
 Presentation Type: Oral  
 Session Date and Time: Tuesday, 12 December 2023; 08:30 - 10:00 PST  
 Session Number and Title: IN21A: Accelerating Science: The Convergence of Inclusive Computational Resources, Cloud-Optimized Data, Open-Source Tools, and Open Collaborative Communities I Oral  
+</details>
+
+<details>
+<summary>Eli Holmes, NOAA Fisheries: Building Bridges for Indian Ocean Rim Marine Scientists Across the "Big Data Geoscience" and Cloud-computing Divide
+</summary>
+
+<https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1417018>
+
+Tuesday, 12 December 2023, 09:03 - 09:13  
+203 - South (Level 2, South, Moscone Center)
 </details>
 
 <details>

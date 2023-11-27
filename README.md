@@ -72,6 +72,8 @@ Final Session #:
 
 </details>
 
+[Staffing sheet](https://docs.google.com/spreadsheets/d/16rR4d7a_RnoL8B7FscSl8ocMxwHHWoUQzvIji1upUaQ/edit#gid=0)
+
 
 ## Booths
 

@@ -15,39 +15,6 @@ Workshops are Sunday, arrive for a huddle Saturday afternoon.
 Kytt MacManus arrives late Monday.
 
 
-## Workshop planning: Enabling Analysis in the Cloud 
-
-Half-day co-led by NASA Openscapes Mentors. Hybrid; 30 people max.  
-Planning doc: [AGU2023_draftworkshop](https://docs.google.com/document/d/1dOilx2mVi-HK4gout0SpYczyXpsZymL0h4bKaIQ-2ew/)  
-Workshop repo: https://github.com/NASA-Openscapes/2023-Cloud-Workshop-AGU
-
-**Confirmed in-person people:** 
-- Michele - instruct/present
-- Aaron - instruct/present
-- Danny - instruct/present
-- Cassie - instruct/present
-- Luis (helper; participating in another workshop)
-- Julie (helper)
-- Erin (helper)
-
-**Confirmed remote helpers:**
-
-
-**Contributors**  
-- Catalina - before meeting prep
-- Bri - before meeting prep
-- Rupesh - data testing, before meeting prep
-- Nikki - tester, before meeting prep
-- Celia - before meeting prep
-
-**Workshop planning and dry runs will take place during Mentors Cohort Calls and Coworking.**
-
-- Oct 4	AGU workshop planning overview: goals, topics, people, Hyperwall.		
-- Oct 18	AGU (30 mins)		
-- Nov 1	AGU (30 mins)	
-- Nov 15	AGU dry runs with helpers	
-- Nov 29	AGU dry runs with helpers
-
 ## Sunday workshops
 
 <details>
@@ -115,10 +82,11 @@ Final Session #:
 </details>
 
 
-
 ## Booths
 
 Hyperwall proposal wasn't accepted. We will be demo-ing at the NASA booth, the Open Science Help Desk (Data/software), Coiled.io and Mathworks booths. Details on demo timing will be shared as it is available. 
+
+Mathworks Booth #1314: visit MathWorks staff to follow up on the MATLAB integration.
 
 ## Talks by NASA Openscapes folks and collaborators
 ### Monday
@@ -239,7 +207,7 @@ Location: Poster Hall A-C, Moscone Center, South
 </details>
 
 ## Social meetups
-### Sunday or Monday Mentor Happy Hour
+### Sunday Mentor Happy Hour
 
 Family/colleagues welcome - like we did post-Retreat
 
@@ -249,5 +217,39 @@ Hazem Mahmoud, ASDC will be at AGU. Doing a Sunday workshop
 
 IGNITE
 
-## Hackday - when and what focus?
+## Hackday - Tuesday or Wednesday 
+earthaccess + kerchunk
 
+
+## Workshop planning: Enabling Analysis in the Cloud 
+
+Half-day co-led by NASA Openscapes Mentors. Hybrid; 30 people max.  
+Planning doc: [AGU2023_draftworkshop](https://docs.google.com/document/d/1dOilx2mVi-HK4gout0SpYczyXpsZymL0h4bKaIQ-2ew/)  
+Workshop repo: https://github.com/NASA-Openscapes/2023-Cloud-Workshop-AGU
+
+**Confirmed in-person people:** 
+- Michele - instruct/present
+- Aaron - instruct/present
+- Danny - instruct/present
+- Cassie - instruct/present
+- Luis (helper; participating in another workshop)
+- Julie (helper)
+- Erin (helper)
+
+**Confirmed remote helpers:**
+
+
+**Contributors**  
+- Catalina - before meeting prep
+- Bri - before meeting prep
+- Rupesh - data testing, before meeting prep
+- Nikki - tester, before meeting prep
+- Celia - before meeting prep
+
+**Workshop planning and dry runs will take place during Mentors Cohort Calls and Coworking.**
+
+- Oct 4	AGU workshop planning overview: goals, topics, people, Hyperwall.		
+- Oct 18	AGU (30 mins)		
+- Nov 1	AGU (30 mins)	
+- Nov 15	AGU dry runs with helpers	
+- Nov 29	AGU dry runs with helpers

@@ -1,24 +1,15 @@
 # 2023-planning-agu
 
-**AGU Searchable [Schedule](https://agu.confex.com/agu/fm23/meetingapp.cgi/Home/0)**
+**[AGU Searchable Schedule](https://agu.confex.com/agu/fm23/meetingapp.cgi/Home/0)**
 
-**Purpose:** This repo is for high-level planning for [AGU](https://www.agu.org/fall-meeting) Dec 11 - 15, 2023.
+This repo is for high-level planning for [AGU](https://www.agu.org/fall-meeting) Dec 11 - 15, 2023. 
 
-**Outcomes:** People know what's happening and when and where to find information. Discussions and decisions can happen in the open. Use this as a lightweight adaptable model for planning future events.
-
-**Process:** README contains up to date information. [GitHub Discussions](https://github.com/NASA-Openscapes/2023-planning-agu/discussions) are used for workshop planning, travel and meetup plans, and which sessions folks plan to attend. Issues for ...issues.
-
-
-## Travel suggestions
-
-Workshops are Sunday, arrive for a huddle Saturday afternoon.  
-Kytt MacManus arrives late Monday.
-
+Below is information workshops, talks, posters, and demos by the NASA Openscapes Mentors and collaborators.
 
 ## Sunday workshops
 
 <details>
-<summary>Enabling Analysis in the Cloud Using NASA Earth Science Data. half-day. Sunday, 10 Dec: 13:00-16:30 (NASA Openscapes)</summary>
+<summary>Enabling Analysis in the Cloud Using NASA Earth Science Data. half-day. 13:00-16:30 (NASA Openscapes)</summary>
 
 <https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/193427>
 
@@ -33,7 +24,7 @@ Session Type: Hybrid
 </details>
 
 <details>
-<summary>Getting Started with NASA Earth Science Data: From Beginner to Expert. full-day (Bri, Chris, Binita KC)</summary>
+<summary>Getting Started with NASA Earth Science Data: From Beginner to Expert. full-day. 08:00 - 15:00 (Bri Lind, Chris Battisto, Binita KC)</summary>
 
 <https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/193391>
 
@@ -45,7 +36,7 @@ Session Type:
 </details>
 
 <details>
-<summary>Space Station Synergies: Applying ECOSTRESS and EMIT Data to Real-World Problems for Scientific Insight. full day (Erik, Aaron)</summary>
+<summary>Space Station Synergies: Applying ECOSTRESS and EMIT Data to Real-World Problems for Scientific Insight. full day. 08:00 - 15:00 (Aaron Friesz)</summary>
 
 <https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/193331>
 
@@ -58,7 +49,7 @@ Session Type: Hybrid
 </details>
 
 <details>
-<summary>Cloud Computing and Open-Source Scientific Software for Cryosphere Communities. full-day (Amy) </summary>
+<summary>Cloud Computing and Open-Source Scientific Software for Cryosphere Communities. full-day. 08:00 - 15:00 (Amy Steiker) </summary>
 
 <https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/193477>  
 
@@ -93,7 +84,7 @@ Mathworks Booth #1314: visit MathWorks staff to follow up on the MATLAB integrat
 
 ### Tuesday
 <details>
-<summary>Lisa Kempler & MathWorks: Accessing NASA Earthdata in the Cloud: Experiences Using MATLAB on NASA Openscapes’ 2i2c JupyterHub. Tuesday, 12 Dec; 08:30-10:00 PST</summary>
+<summary>Lisa Kempler (MathWorks): Accessing NASA Earthdata in the Cloud: Experiences Using MATLAB on NASA Openscapes’ 2i2c JupyterHub. Tuesday, 12 Dec; 08:30-10:00 PST</summary>
 
 <https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1281461>
 
@@ -105,7 +96,7 @@ Session Number and Title: IN21A: Accelerating Science: The Convergence of Inclus
 </details>
 
 <details>
-<summary>Eli Holmes, NOAA Fisheries: Building Bridges for Indian Ocean Rim Marine Scientists Across the "Big Data Geoscience" and Cloud-computing Divide
+<summary>Eli Holmes (NOAA Fisheries): Building Bridges for Indian Ocean Rim Marine Scientists Across the "Big Data Geoscience" and Cloud-computing Divide
 </summary>
 
 <https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1417018>
@@ -115,7 +106,7 @@ Tuesday, 12 December 2023, 09:03 - 09:13
 </details>
 
 <details>
-<summary>Alexis: The Cloud: Obstacles and Barriers Encountered by Users. Tuesday, 12 Dec; 16:00–17:30 PST</summary>
+<summary>Alexis Hunzinger (GES DISC): The Cloud: Obstacles and Barriers Encountered by Users. Tuesday, 12 Dec; 16:00–17:30 PST</summary>
 
 Alexis, eLightning doing a re-run from my ESIP poster, with updates based on the post-it note feedback  
 Abstract ID: 1360223  
@@ -128,7 +119,7 @@ Location: Moscone Center, South, Hall D; eLightning Theater IV, Hall D - South
 
 ### Thursday
 <details>
-<summary>Danny & Luis: Multidimensional Data Aggregation in the Cloud with Application to Geostationary Satellite-based Air Quality Monitoring. Thursday, 14 Dec; 10:20–11:50 PST</summary>
+<summary>Danny Kaufman (ASDC) & Luis Lopez (NSIDC): Multidimensional Data Aggregation in the Cloud with Application to Geostationary Satellite-based Air Quality Monitoring. Thursday, 14 Dec; 10:20–11:50 PST</summary>
   
 Danny & Luis:  
 Final Paper Number and Abstract Title: IN42B-01: Multidimensional Data Aggregation in the Cloud with Application to Geostationary Satellite-based Air Quality Monitoring  
@@ -141,11 +132,10 @@ Location: Moscone Center, 2014 - West
 
 ### Friday
 <details>
-<summary>Erin, Julie (and others?): NASA Openscapes approaches and stories of kinder, open science in the Cloud. Friday, 15 Dec; 08:30–10:00 PST</summary>
+<summary>Julie Lowndes (Openscapes): NASA Openscapes approaches and stories of kinder, open science in the Cloud. Friday, 15 Dec; 08:30–10:00 PST</summary>
 
 <https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1368324>
 
-Erin, Julie (and others?)  
 Abstract ID: 1368324  
 Final Paper Number and Abstract Title: SH51A-04: NASA Openscapes approaches and stories of kinder, open science in the Cloud  
 Presentation Type: Oral  
@@ -156,7 +146,7 @@ Location: Moscone Center, 211 - South
 </details>
 
 <details>
-<summary>Aaron: Community building across government and responding to researcher needs with the NASA Openscapes framework. Friday, 15 December 2023, 14:30 - 14:40 PST
+<summary>Aaron Friesz (LP DAAC): Community building across government and responding to researcher needs with the NASA Openscapes framework. Friday, 15 December 2023, 14:30 - 14:40 PST
 </summary> 
   
 <https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1430101>
@@ -169,7 +159,7 @@ Location: 301-302 - South (Level 3, South, Moscone Center)
 ## Posters by NASA Openscapes folks and collaborators
 ### Monday
 <details>
-<summary>Aaron, Bri, Erik, Mahsa, Cole. Embracing Open Science at the LP DAAC: Success stories, challenges, and opportunities. 08:30 - 12:50 PST
+<summary>Aaron Friesz, Bri Lind, Erik Bolch, Mahsa Jami, Cole Krehbiel. Embracing Open Science at the LP DAAC: Success stories, challenges, and opportunities. 08:30 - 12:50 PST
 </summary> 
 
 <https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1411855>
@@ -180,7 +170,7 @@ Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
 
 ### Wednesday
 <details>
-<summary>Bri, Aaron, Mahsa, Erik. Remote Sensing Data Access Made Simple: NASA’s Application for Extracting and Exploring Analysis Ready Samples (AρρEEARS). 08:30 - 12:50 PST
+<summary>Bri, Aaron Friesz, Mahsa Jami, Erik Bolch. Remote Sensing Data Access Made Simple: NASA’s Application for Extracting and Exploring Analysis Ready Samples (AρρEEARS). 08:30 - 12:50 PST
 </summary> 
   
 <https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1403006>
@@ -192,7 +182,7 @@ Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
 
 ### Friday
 <details>
-<summary>Erik, Bri, Aaron: Python Resources for working with EMIT Imaging Spectroscopy Data. Friday, 15 Dec; 10:30–14:00 PST</summary>
+<summary>Erik Bolch, Bri Lind, Aaron Friesz: Python Resources for working with EMIT Imaging Spectroscopy Data. Friday, 15 Dec; 10:30–14:00 PST</summary>
   
 <https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1402701>
 
@@ -211,8 +201,6 @@ Location: Poster Hall A-C, Moscone Center, South
 
 Family/colleagues welcome - like we did post-Retreat
 
-Hazem Mahmoud, ASDC will be at AGU. Doing a Sunday workshop
-
 ### Wednesday 
 
 IGNITE
@@ -220,6 +208,14 @@ IGNITE
 ## Hackday - Tuesday or Wednesday 
 earthaccess + kerchunk
 
+
+# Planning README 
+
+**Purpose:** This repo is for high-level planning for [AGU](https://www.agu.org/fall-meeting) Dec 11 - 15, 2023.
+
+**Outcomes:** People know what's happening and when and where to find information. Discussions and decisions can happen in the open. Use this as a lightweight adaptable model for planning future events.
+
+**Process:** README contains up to date information. [GitHub Discussions](https://github.com/NASA-Openscapes/2023-planning-agu/discussions) are used for workshop planning, travel and meetup plans, and which sessions folks plan to attend. Issues for ...issues.
 
 ## Workshop planning: Enabling Analysis in the Cloud 
 
@@ -253,3 +249,9 @@ Workshop repo: https://github.com/NASA-Openscapes/2023-Cloud-Workshop-AGU
 - Nov 1	AGU (30 mins)	
 - Nov 15	AGU dry runs with helpers	
 - Nov 29	AGU dry runs with helpers
+
+## Travel suggestions
+
+Workshops are Sunday, arrive for a huddle Saturday afternoon.  
+Kytt MacManus arrives late Monday.
+Hazem Mahmoud, ASDC will be at AGU. Doing a Sunday workshop

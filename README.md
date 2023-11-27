@@ -9,7 +9,7 @@ Below is information workshops, talks, posters, and demos by the NASA Openscapes
 ## Sunday workshops
 
 <details>
-<summary>Enabling Analysis in the Cloud Using NASA Earth Science Data. half-day. 13:00-16:30 (NASA Openscapes)</summary>
+<summary>Enabling Analysis in the Cloud Using NASA Earth Science Data. half-day. 13:00-16:30 (Cassie Nickles, Michele Thornton, Aaron Friesz, Danny Kaufman)</summary>
 
 <https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/193427>
 

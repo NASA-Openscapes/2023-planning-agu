@@ -86,7 +86,7 @@ Mathworks Booth #1314: visit MathWorks staff to follow up on the MATLAB integrat
 
 ### Tuesday
 <details>
-<summary>Lisa Kempler (MathWorks): Accessing NASA Earthdata in the Cloud: Experiences Using MATLAB on NASA Openscapes’ 2i2c JupyterHub. Tuesday, 12 Dec; 08:30-10:00 PST</summary>
+<summary>Lisa Kempler (MathWorks): Accessing NASA Earthdata in the Cloud: Experiences Using MATLAB on NASA Openscapes’ 2i2c JupyterHub. Tuesday, 12 Dec; 08:40-8:50 PST</summary>
 
 <https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1281461>
 

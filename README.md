@@ -182,6 +182,18 @@ Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
 
 </details>
 
+### Thursday
+<details>
+<summary>Danny Kaufman. Impact of Canadian Wildfires on Mid Atlantic’s Region Air Quality: An Analysis Using ASDC Data. 08:30 - 12:50 PST
+</summary> 
+  
+<https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1316563>
+
+Thursday, 14 December 2023, 08:30 - 12:50 PST  
+Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
+
+</details>
+
 ### Friday
 <details>
 <summary>Erik Bolch, Bri Lind, Aaron Friesz: Python Resources for working with EMIT Imaging Spectroscopy Data. Friday, 15 Dec; 10:30–14:00 PST</summary>

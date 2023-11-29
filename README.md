@@ -108,6 +108,17 @@ Tuesday, 12 December 2023, 09:03 - 09:13
 </details>
 
 <details>
+<summary>Matt Fisher: QGreenland & CryoCloud: An open GIS collaboration for education and research
+ Lightning talk Tuesday, 12 December 2023, 12:20 </summary>
+
+<https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1365725>
+<https://nsidc.github.io/qgreenland-cryocloud-agu2023/>
+
+2005 - West (Level 2, West, MC)
+
+</details>
+
+<details>
 <summary>Alexis Hunzinger (GES DISC): The Cloud: Obstacles and Barriers Encountered by Users. Tuesday, 12 Dec; 16:00–17:30 PST</summary>
 
 Alexis, eLightning doing a re-run from my ESIP poster, with updates based on the post-it note feedback  

@@ -224,7 +224,10 @@ Location: Poster Hall A-C, Moscone Center, South
 ## Social meetups
 ### Sunday Mentor Happy Hour
 
-Family/colleagues welcome - like we did post-Retreat
+no-host happy hour (pay your own way)  [Bartlett Hall](https://www.bartletthall.com/) - 6pm?   
+Who to invite
+- NASA ESDS, DAAC colleagues, Carpentries, 2i2c, Coiled, MATLAB friends, Friends, partners
+
 
 ### Wednesday 
 

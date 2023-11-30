@@ -1,4 +1,4 @@
-# 2023-planning-agu
+# Activities by NASA Openscapes folks and collaborators
 
 **[AGU Searchable Schedule](https://agu.confex.com/agu/fm23/meetingapp.cgi/Home/0)**
 
@@ -6,7 +6,7 @@ This repo is for high-level planning for [AGU](https://www.agu.org/fall-meeting)
 
 Below is information workshops, talks, posters, and demos by the NASA Openscapes Mentors and collaborators.
 
-## Sunday workshops
+## Sunday workshops - Dec 10
 
 <details>
 <summary>Enabling Analysis in the Cloud Using NASA Earth Science Data. half-day. 13:00-16:30 (Cassie Nickles, Michele Thornton, Aaron Friesz, Danny Kaufman)</summary>
@@ -75,16 +75,41 @@ Final Session #:
 [Staffing sheet](https://docs.google.com/spreadsheets/d/16rR4d7a_RnoL8B7FscSl8ocMxwHHWoUQzvIji1upUaQ/edit#gid=0)
 
 
-## Booths
+## Sunday Mentor Happy Hour - Dec 10
 
-Hyperwall proposal wasn't accepted. We will be demo-ing at the NASA booth, the Open Science Help Desk (Data/software), Coiled.io and Mathworks booths. Details on demo timing will be shared as it is available. 
+Mentors will meet up post workshops for a no-host happy hour (pay your own way) - colleagues, friends, family, are welcome!
+
+Where: [Bartlett Hall](https://www.bartletthall.com/)
+When: 6pm   
+
+Please share with NASA ESDS, DAAC colleagues, Carpentries, 2i2c, Coiled, MATLAB, NOAA, friends, family
+
+
+## Booths - throughout the week
+
+Earthaccess demo at the NASA booth, the Open Science Help Desk (Data/software), Coiled.io and Mathworks booths. Details on demo timing will be shared as it is available. 
 
 Mathworks Booth #1314: visit MathWorks staff to follow up on the MATLAB integration.
 
-## Talks by NASA Openscapes folks and collaborators
-### Monday
+## Monday Dec 11
 
-### Tuesday
+### Posters
+
+<details>
+<summary>Aaron Friesz, Bri Lind, Erik Bolch, Mahsa Jami, Cole Krehbiel. Embracing Open Science at the LP DAAC: Success stories, challenges, and opportunities. 08:30 - 12:50 PST
+</summary> 
+
+<https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1411855>
+  
+Monday, 11 December 2023  08:30 - 12:50 PST
+Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
+</details> 
+
+
+## Tuesday Dec 12
+
+### Talks
+
 <details>
 <summary>Lisa Kempler (MathWorks): Accessing NASA Earthdata in the Cloud: Experiences Using MATLAB on NASA Openscapes’ 2i2c JupyterHub. Tuesday, 12 Dec; 08:40-8:50 PST</summary>
 
@@ -130,7 +155,33 @@ Session Date and Time: Tuesday, 12 December 2023; 16:00 – 17:30 PST
 Location: Moscone Center, South, Hall D; eLightning Theater IV, Hall D - South  
 </details>
 
-### Thursday
+
+### Hackday earthaccess + kerchunk!
+TBD - Tuesday or Wednesday 
+
+## Wednesday Dec 13
+
+### Posters
+
+<details>
+<summary>Bri, Aaron Friesz, Mahsa Jami, Erik Bolch. Remote Sensing Data Access Made Simple: NASA’s Application for Extracting and Exploring Analysis Ready Samples (AρρEEARS). 08:30 - 12:50 PST
+</summary> 
+  
+<https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1403006>
+
+Wednesday, 13 December 2023, 08:30 - 12:50 PST  
+Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
+
+</details>
+
+### Social
+
+IGNITE
+
+## Thursday Dec 14
+
+### Talks
+
 <details>
 <summary>Danny Kaufman (ASDC) & Luis Lopez (NSIDC): Multidimensional Data Aggregation in the Cloud with Application to Geostationary Satellite-based Air Quality Monitoring. Thursday, 14 Dec; 10:20–11:50 PST</summary>
   
@@ -143,7 +194,23 @@ Presentation Length: 10:22 – 10:32 PST
 Location: Moscone Center, 2014 - West  
 </details>
 
-### Friday
+### Posters
+
+<details>
+<summary>Danny Kaufman. Impact of Canadian Wildfires on Mid Atlantic’s Region Air Quality: An Analysis Using ASDC Data. 08:30 - 12:50 PST
+</summary> 
+  
+<https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1316563>
+
+Thursday, 14 December 2023, 08:30 - 12:50 PST  
+Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
+
+</details>
+
+## Friday Dec 15
+
+### Talks
+
 <details>
 <summary>Julie Lowndes (Openscapes): NASA Openscapes approaches and stories of kinder, open science in the Cloud. Friday, 15 Dec; 08:30–10:00 PST</summary>
 
@@ -167,45 +234,8 @@ Location: Moscone Center, 211 - South
 Location: 301-302 - South (Level 3, South, Moscone Center)  
 </details>
 
+### Posters
 
-
-## Posters by NASA Openscapes folks and collaborators
-### Monday
-<details>
-<summary>Aaron Friesz, Bri Lind, Erik Bolch, Mahsa Jami, Cole Krehbiel. Embracing Open Science at the LP DAAC: Success stories, challenges, and opportunities. 08:30 - 12:50 PST
-</summary> 
-
-<https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1411855>
-  
-Monday, 11 December 2023  08:30 - 12:50 PST
-Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
-</details> 
-
-### Wednesday
-<details>
-<summary>Bri, Aaron Friesz, Mahsa Jami, Erik Bolch. Remote Sensing Data Access Made Simple: NASA’s Application for Extracting and Exploring Analysis Ready Samples (AρρEEARS). 08:30 - 12:50 PST
-</summary> 
-  
-<https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1403006>
-
-Wednesday, 13 December 2023, 08:30 - 12:50 PST  
-Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
-
-</details>
-
-### Thursday
-<details>
-<summary>Danny Kaufman. Impact of Canadian Wildfires on Mid Atlantic’s Region Air Quality: An Analysis Using ASDC Data. 08:30 - 12:50 PST
-</summary> 
-  
-<https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1316563>
-
-Thursday, 14 December 2023, 08:30 - 12:50 PST  
-Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
-
-</details>
-
-### Friday
 <details>
 <summary>Erik Bolch, Bri Lind, Aaron Friesz: Python Resources for working with EMIT Imaging Spectroscopy Data. Friday, 15 Dec; 10:30–14:00 PST</summary>
   
@@ -220,21 +250,6 @@ Session Date and Time: Friday, 15 December 2023; 10:30 – 14:50 PST
 Presentation Length: 
 Location: Poster Hall A-C, Moscone Center, South  
 </details>
-
-## Social meetups
-### Sunday Mentor Happy Hour
-
-no-host happy hour (pay your own way)  [Bartlett Hall](https://www.bartletthall.com/) - 6pm?   
-Who to invite
-- NASA ESDS, DAAC colleagues, Carpentries, 2i2c, Coiled, MATLAB friends, Friends, partners
-
-
-### Wednesday 
-
-IGNITE
-
-## Hackday - Tuesday or Wednesday 
-earthaccess + kerchunk
 
 
 # Planning README 

@@ -6,6 +6,8 @@ This repo is for high-level planning for [AGU](https://www.agu.org/fall-meeting)
 
 Below is information workshops, talks, posters, and demos by the NASA Openscapes Mentors and collaborators.
 
+See also this awesome work of [Pangeo++ related talks](https://docs.google.com/spreadsheets/d/1MzpYQ8JH3WNe_lihGWrykjTnW7Z2k9RtItlD9PyJjQ0/edit?pli=1#gid=280740961)
+
 ## Sunday workshops - Dec 10
 
 <details>

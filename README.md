@@ -183,8 +183,10 @@ IGNITE
 ### Talks
 
 <details>
-<summary>Danny Kaufman (ASDC) & Luis Lopez (NSIDC): Multidimensional Data Aggregation in the Cloud with Application to Geostationary Satellite-based Air Quality Monitoring. Thursday, 14 Dec; 10:20–11:50 PST</summary>
-  
+<summary>Danny Kaufman (ASDC) & Luis Lopez (NSIDC): Multidimensional Data Aggregation in the Cloud with Application to Geostationary Satellite-based Air Quality Monitoring. Thursday, 14 Dec; 10:22 – 10:32 PST</summary>
+
+<https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1414180>
+
 Danny & Luis:  
 Final Paper Number and Abstract Title: IN42B-01: Multidimensional Data Aggregation in the Cloud with Application to Geostationary Satellite-based Air Quality Monitoring  
 Presentation Type: Oral  

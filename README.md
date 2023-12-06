@@ -158,7 +158,7 @@ Location: Moscone Center, South, Hall D; eLightning Theater IV, Hall D - South
 </details>
 
 
-### TOPS Open Science Happy Hour
+### Social: TOPS Open Science Happy Hour
 Tuesday 12/12 at 7:30 pm
 [DragonHorse]https://www.dragonhorsesf.com/) 917 Folsom St, San Francisco, CA 94107
 
@@ -177,7 +177,7 @@ Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
 
 </details>
 
-### Social
+### Social: IGNITE@AGU
 
 IGNITE will be at the [Great American Music Hall](https://gamh.com/) on Wednesday, Dec 13 at 6 PM 859 O’Farrell St. No RSVP needed this year.  
 

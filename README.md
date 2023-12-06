@@ -1,3 +1,5 @@
+<a align="left" href="https://github.com/NASA-Openscapes/2023-planning-agu/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"/></a>
+
 # Activities by NASA Openscapes folks and collaborators
 
 **[AGU Searchable Schedule](https://agu.confex.com/agu/fm23/meetingapp.cgi/Home/0)**

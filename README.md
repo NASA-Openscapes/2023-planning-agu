@@ -158,8 +158,9 @@ Location: Moscone Center, South, Hall D; eLightning Theater IV, Hall D - South
 </details>
 
 
-### Hackday earthaccess + kerchunk!
-TBD - Tuesday or Wednesday 
+### TOPS Open Science Happy Hour
+Tuesday 12/12 at 7:30 pm
+[DragonHorse]https://www.dragonhorsesf.com/) 917 Folsom St, San Francisco, CA 94107
 
 ## Wednesday Dec 13
 
@@ -178,7 +179,9 @@ Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
 
 ### Social
 
-IGNITE
+IGNITE will be at the [Great American Music Hall](https://gamh.com/) on Wednesday, Dec 13 at 6 PM 859 O’Farrell St. No RSVP needed this year.  
+
+From ESIP: Five minutes. 20 slides. Exactly. Our Ignite@AGU speakers take on the challenge of "less is more" to share their work, stories, and ideas.
 
 ## Thursday Dec 14
 
@@ -210,6 +213,14 @@ Thursday, 14 December 2023, 08:30 - 12:50 PST
 Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
 
 </details>
+
+### Social: Hack Time 
+Hackday earthaccess + kerchunk! 
+
+Organized by Luis Lopez.
+
+Check back here for location and exact time. We'll be able to include remote folks!
+
 
 ## Friday Dec 15
 

@@ -136,7 +136,7 @@ Tuesday, 12 December 2023, 09:03 - 09:13
 </details>
 
 <details>
-<summary>Alexis Hunzinger (GES DISC): The Cloud: Obstacles and Barriers Encountered by Users. Tuesday, 12 Dec; 16:00–17:30 PST</summary>
+<summary>Alexis Hunzinger (GES DISC): [The Cloud: Obstacles and Barriers Encountered by Users](https://agu23.ipostersessions.com/Default.aspx?s=C7-8E-7D-F2-9E-4D-4A-EE-D9-1A-E4-35-08-46-FA-3F). Tuesday, 12 Dec; 16:00–17:30 PST</summary>
 
 Alexis, eLightning doing a re-run from my ESIP poster, with updates based on the post-it note feedback  
 Abstract ID: 1360223  

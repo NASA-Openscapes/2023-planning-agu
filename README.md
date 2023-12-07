@@ -79,7 +79,7 @@ Please share with NASA ESDS, DAAC colleagues, Carpentries, 2i2c, Coiled, MATLAB,
 
 ## Booths - throughout the week
 
-Earthaccess demo at the NASA booth, the Open Science Help Desk (Data/software), Coiled.io and Mathworks booths. Details on demo timing will be shared as it is available. 
+Earthaccess demo at the NASA booth, the Open Science Help Desk (Data/software), Coiled.io and Mathworks booths. Details on demo timing below. 
 
 Mathworks Booth #1314: visit MathWorks staff to follow up on the MATLAB integration.
 
@@ -166,6 +166,13 @@ Wednesday, 13 December 2023, 08:30 - 12:50 PST
 Poster Hall A-C - South (Exhibition Level, South, Moscone Center)
 
 </details>
+
+### Exhibit Hall
+
+Luis Lopez (NSIDC): earthaccess: An Open Science Story of Collaboration in Support of the NASA Earthdata User Community
+Wednesday, 13 December 2023, 12:00 - 1:00 PST  
+NASA Booth #531; Demo Kiosk 2
+
 
 ### Social: IGNITE@AGU
 

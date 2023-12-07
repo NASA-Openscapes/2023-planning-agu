@@ -64,18 +64,6 @@ Location: 3006 - West (Level 3, West, Moscone Center)
 </details>
 
 
-<details>
-<summary>NASA Earthdata tools (ED Search, Worldview)</summary>
-Workshop Title:    
-  
-Date and Time: Sunday, 10 December 2023: TIME **    
-
-Location:     
-
-Final Session #:      
-
-</details>
-
 [Staffing sheet](https://docs.google.com/spreadsheets/d/16rR4d7a_RnoL8B7FscSl8ocMxwHHWoUQzvIji1upUaQ/edit#gid=0)
 
 

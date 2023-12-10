@@ -71,7 +71,8 @@ Location: 3006 - West (Level 3, West, Moscone Center)
 
 Mentors will meet up post workshops for a no-host happy hour (pay your own way) - colleagues, friends, family, are welcome!
 
-Where: [Bartlett Hall](https://www.bartletthall.com/)
+Where: [Bartlett Hall](https://www.bartletthall.com/), 242 O'Farrell Street, San Francisco, CA 94102 ([Map](https://maps.app.goo.gl/sVvzkxkrAMRPYmmS7))
+
 When: 6pm   
 
 Please share with NASA ESDS, DAAC colleagues, Carpentries, 2i2c, Coiled, MATLAB, NOAA, friends, family

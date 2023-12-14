@@ -217,7 +217,7 @@ Hackday earthaccess + kerchunk!
 
 Organized by Luis Lopez.
 
-Check back here for location and exact time. We'll be able to include remote folks!
+**3-4:30 at Joyride Pizza above Moscone North!**  https://maps.app.goo.gl/xSQFKGEkkV7hPDHBA
 
 
 ## Friday Dec 15
